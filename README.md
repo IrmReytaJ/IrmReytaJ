@@ -1,89 +1,32 @@
 ## Hi there 👋
 
-<div align="center">
+<h1 align="center">Hi, I'm Irma Reyta 🌷</h1>
 
-<h1 class="fade-in">Hi, I'm Irma Reyta 🌷</h1>
-
-<p class="glow">
-  Web & Mobile Application Learner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+  font=Arial
+  &size=18
+  &pause=1000
+  &color=FF7EB3
+  &center=true
+  &width=480
+  &lines=Web+%26+Mobile+Application+Learner;Learning+step+by+step%2C+one+project+at+a+time" />
 </p>
-
-</div>
-
-<style>
-/* ===== GLOBAL STYLE ===== */
-body {
-  font-family: Arial, sans-serif;
-}
-
-/* ===== FADE IN ===== */
-.fade-in {
-  animation: fadeIn 2s ease-in-out;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-/* ===== GLOW TEXT ===== */
-.glow {
-  color: #ff7eb3;
-  font-weight: 600;
-  animation: glowText 2s ease-in-out infinite alternate;
-}
-
-@keyframes glowText {
-  from {
-    text-shadow: 0 0 5px #ff7eb3;
-  }
-  to {
-    text-shadow: 0 0 12px #ff7eb3;
-  }
-}
-
-/* ===== SLIDE UP ===== */
-.slide-up {
-  animation: slideUp 1.5s ease;
-}
-
-@keyframes slideUp {
-  from {
-    transform: translateY(30px);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-/* ===== BOUNCE ===== */
-.bounce {
-  display: inline-block;
-  animation: bounce 2s infinite;
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-6px); }
-}
-</style>
 
 <hr>
 
-<h3 class="slide-up">👩‍💻 About Me</h3>
+<h3>👩‍💻 About Me</h3>
 
-<p class="slide-up">
+<p>
 I am a student who is currently learning web and mobile application development.
-This GitHub profile is used to document my learning journey and practice projects.
+This GitHub profile is used to document my learning progress and academic projects.
 </p>
 
 <hr>
 
-<h3 class="slide-up">🛠 Skills (Basic Level)</h3>
+<h3>🛠 Skills (Basic Level)</h3>
 
-<ul class="slide-up">
+<ul>
   <li>HTML & CSS</li>
   <li>Python (Basic)</li>
   <li>PHP (Basic)</li>
@@ -92,16 +35,18 @@ This GitHub profile is used to document my learning journey and practice project
 
 <hr>
 
-<h3 class="slide-up">📂 Practice Projects</h3>
+<h3>📂 Practice Projects</h3>
 
-<ul class="slide-up">
+<ul>
   <li>Basic PHP Exercises</li>
   <li>Simple Android Apps (Kotlin)</li>
-  <li>HTML & CSS Layout Practice</li>
+  <li>HTML & CSS Practice</li>
 </ul>
 
 <hr>
 
-<p align="center" class="bounce">
+<p align="center">
 ✨ Learning step by step, one project at a time
 </p>
+
+
