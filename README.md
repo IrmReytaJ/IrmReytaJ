@@ -28,9 +28,11 @@ This GitHub profile is used to document my learning progress and academic projec
 
 <ul>
   <li>HTML & CSS</li>
+  <li>Javascript (Basic)</li>
   <li>Python (Basic)</li>
   <li>PHP (Basic)</li>
   <li>Kotlin (Basic)</li>
+  <li>Laravel (Basic)</li>
 </ul>
 
 <hr>
@@ -46,7 +48,7 @@ This GitHub profile is used to document my learning progress and academic projec
 <hr>
 
 <p align="center">
-✨ Learning step by step, one project at a time
+✨ I’m learning step by step
 </p>
 
 
